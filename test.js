@@ -1,4 +1,4 @@
-//HEllo hello test
+//HEllo hello
 
 if (stairNumber > 4 ){
     isClimbingStairs = true; 
@@ -6,6 +6,7 @@ if (stairNumber > 4 ){
     moveDirection ("right");
   }
   
+
 
 //test hello
 //
