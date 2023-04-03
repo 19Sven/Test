@@ -5,3 +5,10 @@ if (stairNumber > 4 ){
     moveDirection ("up");
     moveDirection ("right");
   }
+  
+
+//test hello
+//
+//
+//
+//
